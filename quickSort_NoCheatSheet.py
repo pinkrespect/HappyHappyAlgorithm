@@ -1,5 +1,3 @@
-
-
 # swap, partitioning, quickSort(recursion)
 # low index, high index, store index, pivot value, pivot index
 from random import randint
