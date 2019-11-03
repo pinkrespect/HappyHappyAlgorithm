@@ -1,0 +1,10 @@
+try:
+    while True:
+        a = list(map(int, input().split()))
+        print(a[0]+a[1])
+
+except EOFError:
+    pass
+
+except IndexError:
+    pass

@@ -1,4 +1,4 @@
-# when you create array that what you want to input integer numbers can splite " "
+# when you create array that what you want to input integer numbers can split " "
 
 array = list(map(int, input().split()))
 
